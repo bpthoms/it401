@@ -15,10 +15,13 @@ Office Hours: Mondays 3:45pm-5:45pm OR by appointment
 Zoom: https://csuci.zoom.us/my/brianthoms
 
 COURSE DESCRIPTION 
+
 Using web programming to extract information, using intelligent search engines, artificial intelligence techniques (expert systems, agents). Topics include: data mining, data warehousing, natural language processing, decision support systems, and intelligent agents.
 
 Prerequisite(s): MATH 300 or MATH 301 and COMP 151 or IT 151
+
 LEARNING OBJECTIVES
+
 Upon completion of the course, the student will be able to: 
 1.	Design, implement and test a basic web crawler.
 2.	Organize data in a relational database structure.
