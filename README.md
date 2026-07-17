@@ -1,11 +1,17 @@
 California State University, Channel Islands
+
 IT 401, Web Intelligence
 
 Instructor: Dr. Brian Thoms (or just Thoms)
+
 Email: brian.thoms@csuci.edu
+
 Office/Mailbox:  Shasta Hall
+
 Class Meetings: Async
+
 Office Hours: Mondays 3:45pm-5:45pm OR by appointment
+
 Zoom: https://csuci.zoom.us/my/brianthoms
 
 COURSE DESCRIPTION 
@@ -29,4 +35,3 @@ TEXTBOOKS
 4.	Natural Language Processing with Transformers, Revised Edition
 5.	AI-Powered Search
 6.	Building Intelligent Systems: A Guide to Machine Learning Engineering
-<img width="468" height="468" alt="image" src="https://github.com/user-attachments/assets/87d41345-e201-410f-b31d-f86962e22108" />
